@@ -1,0 +1,38 @@
+    *{
+      margin: 5px 5px;
+      padding: 0px;
+    }
+
+    body{
+      background-color: #DADADA;
+    }
+
+    .site{
+      background-color: #FFFFFF;
+      width: 200px;
+      margin: 0px auto;
+      padding: 50px;
+    }
+
+    .site .conteudo{
+      background-color: brown;
+      min-width: 90px;
+      margin: 10px auto;
+      padding: px auto;
+      border: 2px solid;
+      font-family: "Pacifico", sans-serif;
+      text-align: center;
+    }
+
+  .site .topo{
+    font-family: "Dancing Script", sans-serif;
+    text-align: center;
+    border-top: 5px solid #DADADA;
+  }
+
+  .site .rodape{
+    font-family: "Indie Flower", sans-serif;
+    text-align: center;
+    border-bottom: 5px solid #DADADA;
+
+  }

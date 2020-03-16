@@ -1,0 +1,26 @@
+.site{
+  background-color: #FFFFFF;
+  width: 200px auto;
+  margin: 0px auto;
+  padding: 50px auto;
+}
+
+.noticias p {
+  color: #800080
+}
+
+.noticias h3 {
+  color : #0000FF
+}
+.noticias h5 {
+  color : #A52A2A
+}
+
+ .table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+ body{
+  background-image: url('https://www.unitrader.pro.br/wp-content/uploads/2016/12/fundo-site-unitrader-v1.jpg');
+}
